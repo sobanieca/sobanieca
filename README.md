@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sobanieca
 - 👀 I’m interested in JS and .NET
-- 🌱 I’m currently learning Deno and JS
+- 🌱 I’m currently learning Deno and Serverless
 
 
 <!---

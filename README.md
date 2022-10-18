@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sobanieca
-- 👀 I’m interested in JS and .NET
+- 👀 I’m interested in everything related to JS
 - 🌱 I’m currently learning Deno and Serverless
 
 

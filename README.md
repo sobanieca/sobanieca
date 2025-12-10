@@ -59,6 +59,10 @@ tags: [tag1, tag2]
 
 The site is automatically built and deployed to GitHub Pages when changes are pushed to the `main` branch using GitHub Actions.
 
+**Live site**: https://sobanieca.github.io
+
+> **Note**: For the site to be available at `sobanieca.github.io` (root domain), this repository must be renamed to `sobanieca.github.io`. Currently it's named `sobanieca`, which would deploy to `sobanieca.github.io/sobanieca`.
+
 <!---
 sobanieca/sobanieca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sobanieca
 - 👀 I’m interested in everything related to JS
-- 🌱 I’m currently learning Deno and Serverless
+- 🌱 I’m currently vibe coding various stuff
 
 
 <!---

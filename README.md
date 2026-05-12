@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sobanieca
 - 👀 I’m interested in everything related to JS
-- 🌱 I’m currently vibe coding various stuff
+- 🌱 I’m experimenting with tools that improve my work
 
 
 <!---

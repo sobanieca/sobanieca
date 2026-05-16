@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sobanieca
 - 👀 I’m interested in everything related to JS
-- 🌱 I’m building tools that improve my work
+- 🌱 I’m trying to build small tools that improve my daily work
 
 
 <!---
